@@ -3,7 +3,7 @@
 ### SiamMask运行日志
 在siammask_sharp目录下输入下面语句
 ```
-export PYTHONPATH =$PYTHONPATH:/home/syk/SiamMask
+export PYTHONPATH=$PYTHONPATH:/home/syk/SiamMask
 ```
 在测试SiamMask的tracker时候，下载王强给出了三个训练模型即可，当然你可以根据你的数据集需要来下载模型
 需要说明的vot2016运行的参数会有问题，建议在vot2018上运行，也就是在siammask_sharp下执行
